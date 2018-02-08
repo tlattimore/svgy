@@ -1,0 +1,5 @@
+services:
+  svgy.twig.extension:
+    class: Drupal\svgy\TwigExtension\Svgy
+    tags:
+      - { name: twig.extension }

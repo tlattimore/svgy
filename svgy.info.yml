@@ -1,0 +1,4 @@
+name: svgy
+type: module
+description: Add a Twig function to make using inline SVGs easier.
+core: 8.x
